@@ -1,0 +1,176 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+} */
+
+
+.parentdiv{
+  background-color:  #F2F2F2; 
+width: 1753px;
+height: 1364px;
+top: -782px;
+left: 66px;
+padding: 192px 38px 171px 35px;
+gap: 0px;
+opacity: 0px;
+
+}
+.childdiv{
+  background-color:#FFFFFF;
+  width: 1680px;
+  height: 1001px;
+  top: 192px;
+  left: 35px;
+  padding: 53px 94px 86px 113px;
+  gap: 0px;
+  opacity: 0px;
+
+  
+}
+
+.childsec{
+  width: 1473px;
+height: 862px;
+top: 53px;
+left: 113px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.input1{
+width:1390px;
+height: 50px;
+
+
+border-radius: 6px 0px 0px 6px;
+border: 1px solid #00000080;
+
+
+
+}
+
+.btn{
+
+  background-color: skyblue;
+  width: 173px;
+  height: 50px;
+border-radius: 0px 6px 6px 0px;
+  border: 1px;
+  border-color: #18A0FB;
+  
+
+
+}
+
+.btn2{
+
+  background-color: skyblue;
+  width: 100px;
+  height: 50px;
+  border-radius: 3px 3px 3px 3px;
+  border: 1px;
+  border-color: #18A0FB;
+  
+
+
+}
+.btn3{
+
+  background-color: skyblue;
+  width: 100px;
+  height: 50px;
+border-radius: 3px 3px 3px 3px;
+margin-left: 6px;
+  border: 1px;
+  border-color: #18A0FB;
+  
+
+
+}
+
+
+
+.jsondiv{
+  width: 622px;
+height: 678px;
+margin: 60px 100px 100px 0px;
+gap: 0px;
+border: 1px solid #00000080;
+opacity: 0px;
+overflow: scroll;
+
+}
+
+.hMdiv{
+  width: 622px;
+height: 678px;
+margin: 60px 0px 100px 150px;
+gap:0px;
+border: 1px solid #00000080;
+opacity: 0px;
+overflow: scroll;
+
+}
+
+.jsontext{
+
+  margin: 20px 100px 0px 0px;
+  width: 622px;
+  
+ 
+  /* width: 1753px;
+  height: 1364px;
+  top: -782px;
+  left: 66px;
+  padding: 192px 38px 171px 35px;
+  gap: 0px;
+  opacity: 0px; */
+  
+}
+.htmltext{
+  margin:20px 0px 0px 150px;
+  width: 622px;
+  
+
+}
+.mydiv{
+  margin-bottom: 2px;
+}
+
+.textarea{
+  border: none;
+  outline: none;
+  width: 622px;
+  height: 678px;
+}
